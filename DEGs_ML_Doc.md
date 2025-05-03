@@ -95,7 +95,7 @@ DEG
       - Accuracy
       - Confusion matrix
       - AUC-ROC
-      - 
+      
 | Model | Precision_No-DEG | Recall_No-DEG | F1_No-DEG | Precision_DEG | Recall_DEG | F1_DEG | Accuracy | AUC |
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | RandomForest       | 1.0                | 1.0                | 1.0                | 1.0                | 1.0                | 1.0                | 1.0                | 1.0                |
